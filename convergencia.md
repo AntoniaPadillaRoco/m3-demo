@@ -13,12 +13,11 @@ Estado inicial: **pendiente de ejecución y revisión**. Esta plantilla no acred
 | CA2 | test_ca2_inicio_en_fin_de_semana | Pendiente |
 | CA3 | test_ca3_fecha_fija_del_criterio | Pendiente |
 
-## Evidencia
+## Verificación
 
 - Referencia de las pruebas revisadas: pendiente.
 - Comando ejecutado: pendiente.
-- Resultado de la ejecución y código de salida: pendiente.
-- Salida guardada: pendiente.
+- Resultado de la ejecución observado en la terminal: pendiente.
 - Diff revisado: pendiente.
 - Confirmación de pruebas y criterios intactos: pendiente.
 - Fecha esperada original de CA3: **2026-11-25**.
