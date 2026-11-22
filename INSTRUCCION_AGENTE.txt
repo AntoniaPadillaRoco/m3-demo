@@ -1,13 +1,18 @@
-Lee criterios.md e implementa calcular_vencimiento en src/plazos.py.
+FASE 2. IMPLEMENTAR CON LAS PRUEBAS YA REVISADAS.
 
-Las pruebas ya fueron revisadas y están guardadas en la referencia
-pruebas-revisadas. Modifica únicamente src/plazos.py.
-No modifiques, elimines ni omitas pruebas. No cambies aserciones, datos,
-criterios ni configuración de ejecución. Conserva la fecha 2026-11-25 de CA3.
-No modifiques la referencia de Git ni crees commits durante la implementación.
+He revisado las pruebas frente a criterios.md y he guardado su versión de
+referencia antes de esta fase. Ahora sí tienes autorización para implementar
+calcular_vencimiento. Lee los criterios y las pruebas de la carpeta de trabajo.
+
+Modifica únicamente src/plazos.py.
+No modifiques, elimines, omitas ni debilites ninguna prueba.
+No cambies datos, aserciones, fechas esperadas, criterios ni archivos de evidencia.
+No añadas saltos de pruebas ni alteres la configuración del ejecutor.
+En CA3 se conserva exactamente 2026-11-25.
+No crees commits ni cambies etiquetas o referencias de Git.
 
 Ejecuta python3 -m unittest discover -s tests -v después de cada ajuste.
 Continúa corrigiendo la implementación mientras existan fallos.
-Si encuentras una contradicción entre criterios y pruebas, descríbela y detente.
-Al terminar, indica los archivos modificados, el comando y su resultado real.
+Si detectas una contradicción entre criterios y pruebas, descríbela y detente.
+Al finalizar, informa los archivos modificados, el comando y su resultado real.
 

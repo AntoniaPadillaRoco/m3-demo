@@ -10,9 +10,9 @@ Python 3.10 o posterior y Git. No se necesitan paquetes externos.
 
 ## Recorrido
 
-1. Escribe `tests/test_plazos.py` desde los criterios y ejecuta `python3 -m unittest discover -s tests -v`.
-2. Revisa las pruebas. Guarda el estado rojo con un commit y la etiqueta `pruebas-revisadas`.
-3. Entrega [INSTRUCCION_AGENTE.txt](INSTRUCCION_AGENTE.txt) al agente. El único archivo de implementación permitido es `src/plazos.py`.
+1. Pide al agente que genere `tests/test_plazos.py` desde `criterios.md`, con unittest, sin modificar la implementación. Debe detenerse para la revisión humana.
+2. Revisa entradas, aserciones y resultados esperados. Confirma el rojo y guarda las pruebas revisadas con un commit y la etiqueta `pruebas-revisadas`.
+3. Sólo después entrega [INSTRUCCION_AGENTE.txt](INSTRUCCION_AGENTE.txt) al agente. Esta segunda instrucción autoriza modificar únicamente `src/plazos.py`, conservando las pruebas revisadas.
 4. Repite la ejecución y la corrección hasta que las pruebas originales pasen.
 5. Revisa `git diff pruebas-revisadas -- src/plazos.py tests criterios.md`. Conserva las pruebas y la fecha de CA3.
 6. Guarda la salida en `evidencia/pruebas-finales.txt` y completa [convergencia.md](convergencia.md) con resultados reales.
