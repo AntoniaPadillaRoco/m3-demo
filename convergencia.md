@@ -13,5 +13,3 @@ Estado inicial: **pendiente de ejecución y revisión**. Esta plantilla no acred
 - Resultado de la ejecución observado en la terminal: pendiente.
 - Diff revisado: pendiente.
 - Confirmación de pruebas y criterios intactos: pendiente.
-- Fecha esperada original de CA3: **2026-11-25**.
-- Pendientes o limitaciones: no se consideran feriados.
