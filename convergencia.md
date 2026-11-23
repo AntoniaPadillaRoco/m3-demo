@@ -4,14 +4,7 @@ Estado inicial: **pendiente de ejecución y revisión**. Esta plantilla no acred
 
 | Criterio | Prueba prevista | Resultado observado |
 |---|---|---|
-| CA1 | test_ca1_suma_excluyendo_el_dia_inicial | Pendiente |
-| CA1 | test_ca1_rechaza_cero | Pendiente |
-| CA1 | test_ca1_rechaza_negativos | Pendiente |
-| CA1 | test_ca1_rechaza_no_entero | Pendiente |
-| CA1 | test_ca1_rechaza_fecha_invalida | Pendiente |
-| CA2 | test_ca2_salta_fin_de_semana | Pendiente |
-| CA2 | test_ca2_inicio_en_fin_de_semana | Pendiente |
-| CA3 | test_ca3_fecha_fija_del_criterio | Pendiente |
+
 
 ## Verificación
 
